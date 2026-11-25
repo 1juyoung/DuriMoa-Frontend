@@ -1,7 +1,9 @@
 # 두리모아 🏆 최우수상
 예비부부를 위한 결혼식 자금 관리 서비스
 
-프로젝트 기간 : 202607 ~ 202608 (2개월)
+프로젝트 기간 : 202607 ~ 202608 (2개월) <br />
+
+📎 [두리모아 백엔드](https://github.com/1juyoung/DuriMoa-Backend)
 
 ## 서비스 개요
 <img width="703" height="396" alt="image" src="https://github.com/user-attachments/assets/9aa7e34a-b507-48a6-9e7e-e95e9ae1a29e" />
@@ -54,8 +56,8 @@
         <img src="https://avatars.githubusercontent.com/1juyoung" width="100" height="100"/><br/>
         <b>김주영</b>
       </a><br/>
-      알림 <br/>
-      결혼 목표 설정
+      프론트엔드 리드 <br/>
+      알림
     </td>
   </tr>
   <tr align="center">
